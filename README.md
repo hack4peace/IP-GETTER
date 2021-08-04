@@ -3,7 +3,7 @@ I AM NOT RESPONSIBLE FOR ANY ILLEGAL WORK THIS IS YOUR RESPONSIBILITY.
 # Notes
 Don't forget to see Warning.👆
 # IP-GETTER
-Basically tool is made for getting public ip in just one click.
+Basically this tool is made for getting public ip in just one click.
 # installation 
 1. git clone https://github.com/hack4peace/IP-GETTER
 2. cd IP-GETTER 
