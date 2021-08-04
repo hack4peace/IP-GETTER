@@ -10,7 +10,7 @@ Basically this tool is made for getting public ip in just one click.
 3. bash ip-getter.sh
 # HOW TO USE
 step 1. Choose any option (but I will prefer you to use number 2 ngrok)
-step 2. Start your hotspot if you are choosing ngrok
+step 2. Open your hotspot if you are choosing ngrok
 step 3. Copy the link and send to your victim. 
 ############That's all nothing more...###########
 THANKS FOR USING THIS TOOL 😊
