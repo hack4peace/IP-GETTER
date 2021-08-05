@@ -1,3 +1,15 @@
+# colour 
+grn="\e[92m"
+rset="\e[0m"
+# banner
+echo -e "$grn  _____ ______          _____  _____  _____  _____  _____ ______  $rset"
+echo -e "$grn |_   _|| ___ \        |  __ \|  ___||_   _||_   _||  ___|| ___ \ $rset"
+echo -e "$grn   | |  | |_/ / ______ | |  \/| |__    | |    | |  | |__  | |_/ / $rset"
+echo -e "$grn   | |  |  __/ |______|| | __ |  __|   | |    | |  |  __| |    / $rset"
+echo -e "$grn  _| |_ | |            | |_\ \| |___   | |    | |  | |___ | |\ \ $rset"
+echo -e "$grn  \___/ \_|             \____/\____/   \_/    \_/  \____/ \_| \_| $rset"
+echo -e "$grn                                                              Version 1.0 $rset"     
+                                                                 
 stop() {
 checkngrok=$(ps aux | grep -o "ngrok" | head -n1)
 checkphp=$(ps aux | grep -o "php" | head -n1)
